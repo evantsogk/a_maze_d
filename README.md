@@ -6,13 +6,13 @@ The custom data structures (linked list and stack) as well as the backtracking a
 ### Usage:
 Just run A_MAZE_D.java
 
-### Here are some pics
+### Here are some screenshots:
 
 Main screen: \
-<img src="./main_screenshot.png" width="250" height="250">
+<img src="./main_screenshot.png">
 
 Maze example: \
-<img src="./maze_screenshot.png" width="250" height="250">
+<img src="./maze_screenshot.png">
 
-Halfway solution example:
-<img src="./solution_screenshot.png" width="250" height="250">
+Halfway solution example: \
+<img src="./solution_screenshot.png">
