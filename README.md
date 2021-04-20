@@ -11,6 +11,9 @@ Just run A_MAZE_D.java
 Main screen: \
 <img src="./main_screenshot.png" width="500" height="281">
 
+Help screen: \
+<img src="./help_screenshot.png" width="500" height="281">
+
 Maze example: \
 <img src="./maze_screenshot.png" width="500" height="281">
 
