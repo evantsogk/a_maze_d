@@ -9,10 +9,10 @@ Just run A_MAZE_D.java
 ### Here are some screenshots:
 
 Main screen: \
-<img src="./main_screenshot.png">
+<img src="./main_screenshot.png" width="500" height="281">
 
 Maze example: \
-<img src="./maze_screenshot.png">
+<img src="./maze_screenshot.png" width="500" height="281">
 
 Halfway solution example: \
-<img src="./solution_screenshot.png">
+<img src="./solution_screenshot.png" width="500" height="281">
