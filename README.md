@@ -2,7 +2,6 @@
 A simple maze game with swing UI that I created while learning Java just for fun. 
 It generates simple mazes and can find the solution with backtracking using my implemented data structures. 
 The custom data structures (linked list and stack) as well as the backtracking algorithm are part of my 3rd semester Data Structures course project.
-(it may be a bit buggy in some parts)
 
 ### Usage:
 Just run A_MAZE_D.java
@@ -20,3 +19,5 @@ Maze example: \
 
 Halfway solution example: \
 <img src="./solution_screenshot.png" width="500" height="281">
+
+(it may be a bit buggy in some parts)
