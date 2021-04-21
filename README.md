@@ -19,4 +19,4 @@ Maze example: \
 
 Halfway solution example: \
 <img src="./solution_screenshot.png" width="500" height="281">
-.
+
